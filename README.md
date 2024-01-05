@@ -1,5 +1,5 @@
 # Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
-
+Live site: https://anime-next-mw9k25md6-romas-projects-2b0a5c79.vercel.app/
 ![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
 
 ### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
